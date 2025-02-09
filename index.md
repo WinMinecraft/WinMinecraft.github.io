@@ -7,8 +7,8 @@
     - [我是谁](https://winminecraft.github.io/#我是谁)  
     - [文章和视频](https://winminecraft.github.io/#文章和视频)
     - [下载](https://winminecraft.github.io/#下载)
-      - [Windows 11](https://winminecraft.github.io/#Windows11)
-      - [Windows 10](https://winminecraft.github.io/#Windows10)
+      - [Windows 11](https://winminecraft.github.io/#windows-11)
+      - [Windows 10](https://winminecraft.github.io/#windows-10)
 
 ## 我是谁？
 我是一个2011年开通地球Online账号的初中牲。（~~我绝对不会告诉大家我的外号叫麦秆~~）  
