@@ -40,6 +40,7 @@ int main(){
 ## 下载
 > 注意：请使用迅雷等支持**ed2k链接**的下载器下载！
 ### Windows 11
+
 [Windows 11 23H2](ed2k://|file|zh-cn_windows_11_business_editions_version_23h2_updated_sep_2024_x64_dvd_22316bf2.iso|7094269952|9437FD5D778E65B27176BA17CF40BC32|/)
 
 [Windows 11 LTSC 2024](ed2k://|file|zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso|5287520256|D6E4FE0BA5FD8A2F22FC9C0326481791|/)
