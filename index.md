@@ -11,6 +11,9 @@
       - [Windows 10](https://winminecraft.github.io/#windows-10)
 
 ## 我是谁？
+
+[返回目录](https://winminecraft.github.io/#%E7%9B%AE%E5%BD%95contents)
+
 我是一个2011年开通地球Online账号的初中牲。（~~我绝对不会告诉大家我的外号叫麦秆~~）  
 热爱计算机，热爱生活。
 
@@ -27,6 +30,9 @@ int main(){
 }
 ```
 ## 文章和视频
+
+[返回目录](https://winminecraft.github.io/#%E7%9B%AE%E5%BD%95contents)
+
 [2025年1月22日 · 第一个基于IE内核的国产浏览器？MyIE浏览器3.2体验（后附MyIE+Windows 98体验）](https://www.bilibili.com/video/BV1CTfhY1EdM/?spm_id_from=333.999.0.0&vd_source=7fe5e2cd0c66b1ec6a324c735544f8ad)
 
 [2025年1月20日 · 年少时的流氓——2345加速浏览器v3.0 版本体验](https://www.bilibili.com/video/BV1NBwmegE2U/?spm_id_from=333.999.0.0&vd_source=7fe5e2cd0c66b1ec6a324c735544f8ad)
@@ -38,6 +44,9 @@ int main(){
 [2024年1月27日 · 苏醒吧！少年！中文字幕《wake》](https://www.bilibili.com/video/BV1RQ4y1c7tw/?spm_id_from=333.999.0.0)
 
 ## 下载
+
+[返回目录](https://winminecraft.github.io/#%E7%9B%AE%E5%BD%95contents)
+
 > 注意：请使用比特彗星等支持**BT链接**的下载器下载！
 > 并且，本站提供软件是**原版软件！**，不提供盗版教程！
 
