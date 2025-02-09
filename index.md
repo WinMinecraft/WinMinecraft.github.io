@@ -38,24 +38,21 @@ int main(){
 [2024年1月27日 · 苏醒吧！少年！中文字幕《wake》](https://www.bilibili.com/video/BV1RQ4y1c7tw/?spm_id_from=333.999.0.0)
 
 ## 下载
-> 注意：请使用迅雷等支持**ed2k链接**的下载器下载！
+> 注意：请使用比特彗星等支持**BT链接**的下载器下载！
+> 并且，本站提供软件是**原版软件！**，不提供盗版教程！
 
 ### Windows 11
 
-[Windows 11 23H2](ed2k://\|file\|zh-cn_windows_11_business_editions_version_23h2_updated_sep_2024_x64_dvd_22316bf2.iso\|7094269952\|9437FD5D778E65B27176BA17CF40BC32|/)
+[Windows 11 23H2](magnet:?xt=urn:btih:566a91613cfe1c91c8928654ccf6df9f6592c590&dn=zh-cn_windows_11_business_editions_version_23h2_updated_sep_2024_x64_dvd_22316bf2.iso&xl=7094269952)
 
-[Windows 11 LTSC 2024](ed2k://\|file\|zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso\|5287520256\|D6E4FE0BA5FD8A2F22FC9C0326481791\|/)
+[Windows 11 LTSC 2024](magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256)
 
 ### Windows 10
 
-[Windows 10 22H2 2023年5月更新（不包含新搜索图标）](ed2k://\|file\|zh-cn_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_b7e877b8.iso\|5975597056\|8661B12B399A0EC20A4A64E1BA3B3A16\|/)
+[Windows 10 22H2 2023年5月更新（不包含新搜索图标）](magnet:?xt=urn:btih:c81803cae90b27d669b76eaa37cc186b4085858c&dn=zh-cn_windows_10_business_editions_version_22h2_updated_may_2024_x64_dvd_4029f29d.iso&xl=6942889984)
 
-[Windows 10 21H2 LTSC](ed2k://\|file\|SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO\|5044211712\|1555B7DCA052B5958EE68DB58A42408D\|/)
-
-[Windows 10 1809 LTSC](ed2k://\|file\|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669\|/)
+[Windows 10 21H2 LTSC](magnet:?xt=urn:btih:366ADAA52FB3639B17D73718DD5F9E3EE9477B40&dn=SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO&xl=5044211712)
 
 [Windows 10 1909 2020年4月更新](magnet:?xt=urn:btih:CACC1E9EEC070BE56F939863E189EAE3116F98E4&dn=cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso&xl=5420953600)
 
-[Windows 10 1703 创意者更新 x64](ed2k://\|file\|cn_windows_10_multiple_editions_version_1703_updated_july_2017_x64_dvd_10925382.iso\|5849513984|D4A186940512939EAF72EF91FE74C0F8\|/)
-
-[Windows 10 1703 创意者更新 x86](ed2k://\|file\|cn_windows_10_multiple_editions_version_1703_updated_july_2017_x86_dvd_10925372.iso\|4414928896\|3454A17F236E56401A0B9BB62CE49760\|/)
+[Windows 10 2020春季更新 x86](magnet:?xt=urn:btih:699AB1498B44C00BF4E8ECE3B67187BFC61A67B5&dn=cn_windows_10_business_editions_version_2004_updated_sep_2020_x86_dvd_31186d54.iso&xl=3815186432)
