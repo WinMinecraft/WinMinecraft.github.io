@@ -1,17 +1,25 @@
 [笔者B站](https://space.bilibili.com/1512804294)
-
-# 目录Contents
-- [你好\(@^0^@)/人类，里面请](https://winminecraft.github.io/#你好0人类里面请)
-    - [文章和视频](https://winminecraft.github.io/#文章和视频)
   
 # 你好\(@^0^@)/人类，里面请
 
+## 目录Contents
+- [你好\(@^0^@)/人类，里面请](https://winminecraft.github.io/#你好0人类里面请)
+    - [我是谁](https://winminecraft.github.io/#我是谁)
+    - [文章和视频](https://winminecraft.github.io/#文章和视频)
+
+## 我是谁？
+一个2011年开通地球Online账号的初中牲。  
+热爱计算机，热爱生活。
+
+> 有理想的人，生活总是火热的。————斯大林
+> 应该相信，自己是生活的战胜者。————雨果
 > 涓滴之水终可磨损大石，不是由于它力量强大，而是由于昼夜不舍的滴坠。————贝多芬
 
 ```C++
 #include <stdio.h>
 int main(){
     printf("Hello,World!\n");
+    printf("Better!\n")
     return 0;
 }
 ```
