@@ -65,3 +65,12 @@ int main(){
 [Windows 10 1909 2020年4月更新](magnet:?xt=urn:btih:CACC1E9EEC070BE56F939863E189EAE3116F98E4&dn=cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso&xl=5420953600)
 
 [Windows 10 2020春季更新 x86](magnet:?xt=urn:btih:699AB1498B44C00BF4E8ECE3B67187BFC61A67B5&dn=cn_windows_10_business_editions_version_2004_updated_sep_2020_x86_dvd_31186d54.iso&xl=3815186432)
+
+## CSP真题下载
+[CSP-J 2024复赛](2024 CSP-J2.pdf)
+
+[CSP-S 2024全国卷](2024 S组 初赛真题.pdf)
+
+[CSP-J 2024山东卷](山东卷-CSP-J 2024.pdf)
+
+[CSP-J 2024全国卷](全国卷-CSP-J 2024.pdf)
