@@ -8,7 +8,8 @@
     - [文章和视频](https://winminecraft.github.io/#文章和视频)
     - [下载](https://winminecraft.github.io/#下载)
       - [Windows 11](https://winminecraft.github.io/#windows-11)
-      - [Windows 10](https://winminecraft.github.io/#windows-10)
+      - [Windows 10](https://winminecraft.github.io/#windows-10
+      - [CSP真题下载](https://winminecraft.github.io/#csp%E7%9C%9F%E9%A2%98%E4%B8%8B%E8%BD%BD)
 
 ## 我是谁？
 
@@ -66,7 +67,7 @@ int main(){
 
 [Windows 10 2020春季更新 x86](magnet:?xt=urn:btih:699AB1498B44C00BF4E8ECE3B67187BFC61A67B5&dn=cn_windows_10_business_editions_version_2004_updated_sep_2020_x86_dvd_31186d54.iso&xl=3815186432)
 
-## CSP真题下载
+### CSP真题下载
 [CSP-J 2024复赛](2024 CSP-J2.pdf)
 
 [CSP-S 2024全国卷](2024 S组 初赛真题.pdf)
