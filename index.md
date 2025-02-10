@@ -8,7 +8,7 @@
     - [文章和视频](https://winminecraft.github.io/#文章和视频)
     - [下载](https://winminecraft.github.io/#下载)
       - [Windows 11](https://winminecraft.github.io/#windows-11)
-      - [Windows 10](https://winminecraft.github.io/#windows-10
+      - [Windows 10](https://winminecraft.github.io/#windows-10)
       - [CSP真题下载](https://winminecraft.github.io/#csp%E7%9C%9F%E9%A2%98%E4%B8%8B%E8%BD%BD)
 
 ## 我是谁？
